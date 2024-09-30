@@ -1,1 +1,2 @@
 # AI-MUSIC-GENERATION-PROJECT---CODEALPHA---AI-ENGINEERING
+I developed an AI music generation project using LSTM networks to create unique compositions. By leveraging libraries like music21, Keras, and TensorFlow, I prepared a dataset of MIDI files, trained a model to learn musical patterns, and generated five original pieces. This project deepened my understanding of deep learning and showcased the artistic potential of AI in music.
